@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class DuplicateWordsInString {
+public class DuplicateWordsFrequencyInString {
 
 	public static void main(String[] args) {
 		findDuplicateWords("Java is the langugage java is the");
